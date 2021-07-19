@@ -1,6 +1,9 @@
 /*styles general*/
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 .headclass
 	{
+	font-family: 'Pacifico', cursive;
+	font-size: 30px;	
 	width: 80%;
 	text-align: center;
 	margin: 0 auto;
